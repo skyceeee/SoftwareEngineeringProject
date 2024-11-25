@@ -8,10 +8,16 @@ Bu proje, kullanıcıların kütüphane kitaplarını çevrimiçi olarak görün
 
 | İsim               | Görev/Uzmanlık Alanı          | GitHub Linki                                    |
 |--------------------|------------------------------|------------------------------------------------|
-| [Ali Veli](#)      | Backend Developer            | [GitHub/ArifErenAydın](https://github.com/ArifErenAydin-code)   |
-| [Ayşe Fatma](#)    | Frontend Developer           | [GitHub/AyseFatma](https://github.com/kdryldzz) |
-| [Kadir Can](#)     | Database Engineer            | [GitHub/KadirCan](https://github.com/kadircan) |
-| [Zeynep Kaya](#)   | Project Manager              | [GitHub/ZeynepKaya](https://github.com/zeynepkaya) |
+| [Ömer Yavuz](#)    | Project Manager              | [GitHub/ZeynepKaya](https://github.com/omtekyav) |
+| [Arif Aydın](#)    | Backend Developer            | [GitHub/ArifErenAydın](https://github.com/ArifErenAydin-code)   |
+| [Gökçe Keskin](#)  | Database Developer           | [GitHub/ZeynepKaya](https://github.com/skyceeee) |
+| [Kadir Yıldız](#)  | Frontend Developer           | [GitHub/AyseFatma](https://github.com/kdryldzz)  |
+| [Muhsin Ay](#)     | Backend Developer            | [GitHub/ZeynepKaya](https://github.com/mhsnayy)  |
+| [Fevzi Güler](#)   | Frontend Developer           | [GitHub/ZeynepKaya](https://github.com/FevziG)   |
+| [Emre Karataş](#)  | Frontend Developer           | [GitHub/KadirCan](https://github.com/01YunusKaratas) |
+
+
+
 
 ---
 
@@ -36,7 +42,7 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 - **Visual Studio**: Proje geliştirme ortamı.
 - **Postman**: API testleri.
 - **Git & GitHub**: Versiyon kontrol ve işbirliği.
-- **Trello/Asana**: Görev yönetimi.
+- **Whatsapp/Slack**: Görev yönetimi.
 
 ---
 
