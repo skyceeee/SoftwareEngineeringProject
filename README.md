@@ -11,7 +11,7 @@ Bu proje, kullanıcıların kütüphane kitaplarını çevrimiçi olarak görün
 | [Ömer Yavuz](#)    | Project Manager              | [GitHub/Ömer Yavuz](https://github.com/omtekyav) |
 | [Arif Aydın](#)    | Backend Developer            | [GitHub/ArifErenAydın](https://github.com/ArifErenAydin-code)   |
 | [Gökçe Keskin](#)  | Database Developer           | [GitHub/Gökçe Keskin](https://github.com/skyceeee) |
-| [Kadir Yıldız](#)  | Frontend Developer           | [GitHub/Kadir Yıldız](https://github.com/kdryldzz)  |
+| [Kadir Yıldız](#)  | Backend Developer            | [GitHub/Kadir Yıldız](https://github.com/kdryldzz)  |
 | [Muhsin Ay](#)     | Backend Developer            | [GitHub/Muhsin Ay](https://github.com/mhsnayy)  |
 | [Fevzi Güler](#)   | Frontend Developer           | [GitHub/Fevzi Güler](https://github.com/FevziG)   |
 | [Emre Karataş](#)  | Frontend Developer           | [GitHub/Emre Karataş](https://github.com/01YunusKaratas) |
