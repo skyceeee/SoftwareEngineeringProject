@@ -8,13 +8,13 @@ Bu proje, kullanıcıların kütüphane kitaplarını çevrimiçi olarak görün
 
 | İsim               | Görev/Uzmanlık Alanı          | GitHub Linki                                    |
 |--------------------|------------------------------|------------------------------------------------|
-| [Ömer Yavuz](#)    | Project Manager              | [GitHub/ZeynepKaya](https://github.com/omtekyav) |
+| [Ömer Yavuz](#)    | Project Manager              | [GitHub/Ömer Yavuz](https://github.com/omtekyav) |
 | [Arif Aydın](#)    | Backend Developer            | [GitHub/ArifErenAydın](https://github.com/ArifErenAydin-code)   |
-| [Gökçe Keskin](#)  | Database Developer           | [GitHub/ZeynepKaya](https://github.com/skyceeee) |
-| [Kadir Yıldız](#)  | Frontend Developer           | [GitHub/AyseFatma](https://github.com/kdryldzz)  |
-| [Muhsin Ay](#)     | Backend Developer            | [GitHub/ZeynepKaya](https://github.com/mhsnayy)  |
-| [Fevzi Güler](#)   | Frontend Developer           | [GitHub/ZeynepKaya](https://github.com/FevziG)   |
-| [Emre Karataş](#)  | Frontend Developer           | [GitHub/KadirCan](https://github.com/01YunusKaratas) |
+| [Gökçe Keskin](#)  | Database Developer           | [GitHub/Gökçe Keskin](https://github.com/skyceeee) |
+| [Kadir Yıldız](#)  | Frontend Developer           | [GitHub/Kadir Yıldız](https://github.com/kdryldzz)  |
+| [Muhsin Ay](#)     | Backend Developer            | [GitHub/Muhsin Ay](https://github.com/mhsnayy)  |
+| [Fevzi Güler](#)   | Frontend Developer           | [GitHub/Fevzi Güler](https://github.com/FevziG)   |
+| [Emre Karataş](#)  | Frontend Developer           | [GitHub/Emre Karataş](https://github.com/01YunusKaratas) |
 
 
 
