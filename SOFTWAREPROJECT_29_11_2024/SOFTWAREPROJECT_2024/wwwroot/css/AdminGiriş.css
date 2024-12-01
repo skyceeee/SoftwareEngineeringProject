@@ -126,19 +126,20 @@ button:hover{
     margin-top:5px;
 }
 
-/* Footer Sabitleme */
-.footer {
-    position: fixed; /* Footer sabitlenir */
-    bottom: 0; /* Sayfanın alt kısmına yapışır */
-    width: 100%; /* Tam genişlikte olmasını sağlar */
-    background-color: #e5e5e5;
-    text-align: center;
-    line-height: 60px; /* Yükseklik ile uyumlu */
-}
-
 
 #errorAlert{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     
+}
+
+footer{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+    padding: 10px;
+}
+#information{
+    margin-bottom: 90px;
 }
