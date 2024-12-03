@@ -62,12 +62,4 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 
 ---
 
-## 📂 Proje Yapısı
 
-```plaintext
-├── /Controllers/       # Backend iş mantığı (Controller dosyaları)
-├── /Models/            # Veritabanı modelleri (Entity Framework)
-├── /Views/             # Razor sayfaları (Dinamik HTML dosyaları)
-├── /wwwroot/           # Statik dosyalar (CSS, JS, img)
-├── appsettings.json    # Veritabanı ve uygulama ayarları
-└── README.md           # Proje açıklaması ve talimatlar
