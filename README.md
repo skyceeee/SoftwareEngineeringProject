@@ -14,7 +14,7 @@ Bu proje, kullanıcıların kütüphane kitaplarını çevrimiçi olarak görün
 | [Kadir Yıldız](#)  | Backend Developer            | [GitHub/Kadir Yıldız](https://github.com/kdryldzz)  |
 | [Muhsin Ay](#)     | Backend Developer            | [GitHub/Muhsin Ay](https://github.com/mhsnayy)  |
 | [Fevzi Güler](#)   | Frontend Developer           | [GitHub/Fevzi Güler](https://github.com/FevziG)   |
-| [Emre Karataş](#)  | Frontend Developer           | [GitHub/Emre Karataş](https://github.com/01YunusKaratas) |
+| [Emre Karataş](#)  | Full Stack Developer         | [GitHub/Emre Karataş](https://github.com/01YunusKaratas) |
 
 
 
