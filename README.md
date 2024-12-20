@@ -2,13 +2,13 @@
 
 Bu proje, kullanıcıların kütüphane kitaplarını çevrimiçi olarak görüntülemesini ve yönetmesini sağlayan bir web uygulamasıdır. Kullanıcılar giriş yapabilir, üye olabilir ve aldıkları kitaplarla ilgili bilgileri profil sayfasından takip edebilir. Profil sayfasında, kitapların teslim tarihine kaç gün kaldığı bilgisi yer alır. Kullanıcılar doğrudan rezervasyon yapamaz; istedikleri kitapları rezerve etmek için talepler oluşturur ve bu talepler,admin aracığııyla herhangi bir problem yoksa rezervasyon yapılır.
 
----
+-----
 
 ## 👨‍💻 Ekip Üyeleri
 
 | İsim               | Görev/Uzmanlık Alanı          | GitHub Linki                                    |
 |--------------------|------------------------------|------------------------------------------------|
-| [Ömer Yavuz](#)    | Project Manager              | [GitHub/Ömer Yavuz](https://github.com/omtekyav) |
+| [Ömer Yavuz](#)    | Project Manager Designer     | [GitHub/Ömer Yavuz](https://github.com/omtekyav) |
 | [Arif Aydın](#)    | Backend Developer            | [GitHub/ArifErenAydın](https://github.com/ArifErenAydin-code)   |
 | [Gökçe Keskin](#)  | Database Developer           | [GitHub/Gökçe Keskin](https://github.com/skyceeee) |
 | [Kadir Yıldız](#)  | Backend Developer            | [GitHub/Kadir Yıldız](https://github.com/kdryldzz)  |
@@ -19,7 +19,7 @@ Bu proje, kullanıcıların kütüphane kitaplarını çevrimiçi olarak görün
 
 
 
----
+-----
 
 ## 🚀 Kullanılan Teknolojiler ve Araçlar
 
