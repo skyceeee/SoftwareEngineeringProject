@@ -66,6 +66,11 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 
 
 ##Proje Resimleri
-![Görsel 1](wwroot/media/about.png) 
-![Görsel 2](wwroot/media/login.png) 
-![Görsel 3](wwroot/media/admingiris.png) 
+![Login Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/login.png?raw=true) 
+![Sign-Up Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/sign%20uP.png?raw=true) 
+![Search-Book Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/searchbooks.png?raw=true) 
+![Profile](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/profile.png?raw=true)
+![Admin-Login](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/admingiris.png?raw=true)
+![Admin Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/adminpage.png?raw=true)
+![Admin Page2](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/adminpage2.png?raw=true)
+
