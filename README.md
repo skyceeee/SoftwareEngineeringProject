@@ -91,7 +91,7 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 
 ## **Proje Videosu**
 <video width="640" height="360" controls>
-  <source src="https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/kay%C4%B1t2.webm" type="video/mp4">
+  <source src="https://github.com/01YunusKaratas/SoftwareEngineeringProject/raw/refs/heads/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/kay%C4%B1t2.webm" type="video/mp4">
   Tarayıcınız bu videoyu desteklemiyor.
 </video>
 
