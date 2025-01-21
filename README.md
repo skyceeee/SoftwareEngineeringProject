@@ -90,6 +90,6 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 
 
 ## **Proje Videosu**
-![](https://github.com/user-attachments/assets/a67a4132-1cde-4ff8-a7a3-6983750a36a8)
+https://github.com/user-attachments/assets/a67a4132-1cde-4ff8-a7a3-6983750a36a8
 
 
