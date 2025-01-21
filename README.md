@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/c6d74839-f60d-4c03-afc4-28cb49adc99e
 
 ## **Proje Belgesi**
 
-https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/921b656c16a3f03d1904b251267235a41452cbbf/Group_29_SWE_Library_Site_Project_Final.pdf
+https://github.com/user-attachments/files/18496938/Group_29_SWE_Library_Site_Project_Final.1.pdf
 
 
 
