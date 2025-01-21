@@ -90,6 +90,6 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 
 
 ## **Proje Videosu**
-![](https://github.com/01YunusKaratas/SoftwareEngineeringProject/raw/refs/heads/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/kay%C4%B1t2.webm)
+![](https://github.com/user-attachments/assets/a67a4132-1cde-4ff8-a7a3-6983750a36a8)
 
 
