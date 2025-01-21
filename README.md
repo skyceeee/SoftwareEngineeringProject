@@ -65,3 +65,7 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 ---
 
 
+##Proje Resimleri
+![Görsel 1](wwroot/media/about.png) 
+![Görsel 2](wwroot/media/login.png) 
+![Görsel 3](wwroot/media/admingiris.png) 
