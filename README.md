@@ -65,12 +65,34 @@ Projeyi geliştirmek için aşağıdaki teknolojiler ve araçlar kullanılmışt
 ---
 
 
-##Proje Resimleri
-![Login Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/login.png?raw=true) 
-![Sign-Up Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/sign%20uP.png?raw=true) 
-![Search-Book Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/searchbooks.png?raw=true) 
+## **Proje Resimleri**
+
+### **1. Login Page**
+![Login Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/login.png?raw=true)
+
+### **2. Sign-Up Page**
+![Sign-Up Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/sign%20uP.png?raw=true)
+
+### **3. Search-Book Page**
+![Search-Book Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/searchbooks.png?raw=true)
+
+### **4. Profile Page**
 ![Profile](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/profile.png?raw=true)
+
+### **5. Admin Login Page**
 ![Admin-Login](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/admingiris.png?raw=true)
+
+### **6. Admin Panel**
 ![Admin Page](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/adminpage.png?raw=true)
+
+### **7. Admin Panel (Detaylar)**
 ![Admin Page2](https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/adminpage2.png?raw=true)
+
+
+## **Proje Videosu**
+<video width="640" height="360" controls>
+  <source src="https://github.com/01YunusKaratas/SoftwareEngineeringProject/blob/emre/Group_29_SWE_Library_Site_Code/SOFTWAREPROJECT_2024/wwwroot/media/kay%C4%B1t2.webm" type="video/mp4">
+  Tarayıcınız bu videoyu desteklemiyor.
+</video>
+
 
